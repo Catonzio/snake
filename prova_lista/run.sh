@@ -1,0 +1,1 @@
+gcc prova_list.c list.c paddle.c -o prova && ./prova
